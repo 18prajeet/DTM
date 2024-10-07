@@ -34,6 +34,5 @@ A simple **Daily Expense Tracker** application that helps users manage and track
 1. Clone the repository:
    
    git clone https://github.com/yourusername/expense-tracker-mern.git
-2. Navigate to project directory
-   cd expense-tracker-mern
+
 
